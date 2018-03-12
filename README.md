@@ -3,6 +3,8 @@
 Personal Project of a fully usable MVP
 
 ## Getting Started
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarbar3778%2Fweb_fd.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarbar3778%2Fweb_fd?ref=badge_shield)
+
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -89,3 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Inspiration --> -->
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarbar3778%2Fweb_fd.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarbar3778%2Fweb_fd?ref=badge_large)
